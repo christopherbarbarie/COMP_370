@@ -1,0 +1,1 @@
+not sure since I wasn't able to do the first step. If I had to guess I'd say that the type of complaint might be directly linked to the borough since some problems happen more frequently in certain boroughs.
